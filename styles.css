@@ -1,0 +1,11 @@
+input:invalid {
+    background-color: grey;
+}
+
+.error {
+    background-color: orange;
+}
+
+.error.active {
+    padding: 0.3rem;
+}
